@@ -1,63 +1,53 @@
-This project performs an in-depth analysis of India’s 2023 road accident data using Power BI for visualization and Random Forest for prediction of 2025 accident trends.
+🚗 Road Accident Analysis – India (2023)
+
+A comprehensive Data Analytics and Visualization project that examines India’s 2023 road accident data using Microsoft Power BI and predicts 2025 accident trends using a Random Forest machine learning model. This project highlights accident hotspots, risky vehicle categories, and state-level patterns to support road safety improvements.
 
 📌 Key Features
 
-Accident hotspot analysis
+Accident Hotspot Analysis – Identify states with the highest accident and fatality rates.
 
-Vehicle-wise fatality comparison
+Vehicle-wise Fatality Comparison – Understand high-risk vehicle categories (two-wheelers, cars, buses).
 
-State-level injury & death trends
+State-level Trends – Compare injuries & deaths across Indian states.
 
-Highway risk comparison (NH, SH, Expressways)
+Highway Risk Comparison – Analyze accident severity across NH, SH, and Expressways.
 
-2025 accident prediction using Random Forest
+Predictive Modeling (2025) – Random Forest model forecasting injury and fatality trends.
 
 📊 Tech Stack
 
-Power BI (visualization)
+Power BI – Interactive dashboards
 
-Python (Random Forest model)
+Python – Predictive modeling
 
-NumPy, Pandas, Scikit-learn
+Libraries: NumPy, Pandas, Scikit-learn
 
-MS Excel (data cleaning)
+MS Excel – Data cleaning and preprocessing
 
 📁 Project Files
 
-Dataset
+Dataset (Road accidents in India – 2023)
 
-Power BI dashboard
+Power BI Dashboard
 
-Python prediction script
+Random Forest Python Script
 
-PPT presentation
+Project Presentation (PPT)
 
-Documentation
+Documentation File
 
-🚀 Predictive Insights
+🚀 Predictive Insights (2025 Forecast)
 
-Two-wheeler deaths predicted to rise from 69K → 72K
+Two-Wheeler Deaths: Expected to rise from 69K → 72K
 
-National Highways remain the most dangerous
+Highway Risk: National Highways remain the most dangerous
 
-States like UP, TN, MH follow increasing fatality trends
+State Trends: Uttar Pradesh, Tamil Nadu, and Maharashtra continue to show high fatality rates
 
-📝 Team Members
+👥 Team Members
 
 Avula Subhang
 
 B. Saishree
 
 Boomika B
-
-✅ 2. How to Post This Project on LinkedIn
-LinkedIn Project Title
-
-Road Accident Analysis – Data Visualization & Predictive Modeling
-
-Add This as Description (copy below):
-
-I recently worked on a Data Analytics & Visualization project titled “Road Accident Analysis – India 2023”, where our team analyzed nationwide accident data using Power BI and built a Random Forest model to predict accident trends for 2025.
-Our project identified accident hotspots, risky vehicle categories, and high-severity highways, giving valuable insights for policymakers and road safety planning.
-
-Tech Used: Power BI, Python, Pandas, Scikit-learn
